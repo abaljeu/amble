@@ -1,0 +1,16 @@
+# Standard .gitignore for a documentation/meta repo
+# Ignore node_modules, OS files, and editor configs
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.vscode/
+
+# --- Subproject Exclusions ---
+# Exclude main code subprojects from root repo
+amber-react/
+browser-nav/
+minbrowser/
+
+# End of exclusions
