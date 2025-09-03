@@ -1,4 +1,4 @@
-# General Instructions for Copilot, applicable to any software project.
+# General Instructions for Copilot, applicable to any software project
 
 Copilot must not modify this instuctions file.
 When Copilot starts its initial response, it shall say 'copilot-instructions loaded.' in the chat output (not in a file). If Copilot notices a change, it shall say 'copilot-instructions updated.'  
