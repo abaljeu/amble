@@ -1,1 +1,1 @@
-Refer to ./global-instructions.md.
+Refer to https://github.com/abaljeu/amble/blob/master/.github/copilot-instructions.md.
