@@ -31,3 +31,9 @@ Main docs: [[minbrowser/docs/index.md]]
 Browser Navigator is a prototype for keyboard-driven DOM navigation, selection, and accessibility inspection. It is implemented as a Chrome extension and static assets, with incremental features tracked in its docs.
 
 Main docs: [[browser-nav/docs/plan.md]]
+
+
+### fancy-file-editor
+Fancy File Editor is a new subproject: a VS Code extension prototype that provides a custom text editor for a simple text-based filetype (example: `*.mytxt`).
+
+Main docs: [[fancy-file-editor/README.md]]
